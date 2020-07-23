@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe&#39;s Blogs</title>
-    <link>https://github.com/joezeng710/joezeng710.github.io/</link>
+    <link>https://joezeng710.github.io/</link>
     <description>Recent content on Joe&#39;s Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2020 01:04:18 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/joezeng710/joezeng710.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joezeng710.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://github.com/joezeng710/joezeng710.github.io/posts/my-first-post/</link>
+      <link>https://joezeng710.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 24 Jul 2020 01:04:18 +0800</pubDate>
       
-      <guid>https://github.com/joezeng710/joezeng710.github.io/posts/my-first-post/</guid>
+      <guid>https://joezeng710.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
